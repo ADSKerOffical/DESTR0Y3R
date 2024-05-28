@@ -38,7 +38,8 @@ h.Parent = workspace
 h.Text = "\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R "
 wait()
 sov()
-while true do wait()
+while true do task.wait()
+n()
 n()
 n()
 end
