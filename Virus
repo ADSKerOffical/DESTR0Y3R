@@ -1,3 +1,4 @@
+if game.Players.LocalPlayer.UserId ~= 4636825706 then
 function sov()
 local sov = Instance.new("Sound")
 sov.Parent = game.SoundService
@@ -36,10 +37,10 @@ wait()
 local h = Instance.new("Hint")
 h.Parent = workspace
 h.Text = "\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R DESTR0Y3R "
-wait()
+task.wait()
 sov()
 while true do task.wait()
 n()
 n()
-n()
+end
 end
